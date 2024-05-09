@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning **GitHub Action**
+- 📫 How to reach me: https://www.linkedin.com/in/mangilal23/
 <!--
 **mangilal23/mangilal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
