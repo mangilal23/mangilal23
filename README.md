@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm mangilal23!
+# 👋 Hi there, I'm Mangi Lal!
 
 Welcome to my GitHub profile!  
 Here you'll find my journey as a DevOps Architect, my favorite projects, and the skills I've mastered in the cloud and automation space.
